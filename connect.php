@@ -1,7 +1,7 @@
 <?php
 
 try {
-	$con = new pdo ('mysql:host=localhost;dbname=front_desk','root','Best2017Know');
+	$con = new pdo ('mysql:host=localhost;dbname=front_desk','root','');
 } 
 catch (Exception $e) 
 {
